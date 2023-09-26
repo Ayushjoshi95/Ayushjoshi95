@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Messaging App<br>👯 I’m looking to collaborate on AI<br>🌱 I’m currently learning Swift<br>💬 Ask me about JavaScript , React , API , Oracle DB<br>   You can connect me here ayushjoshi947@gmail.com<br>
+🔭 I’m currently working on Messaging App<br>👯 I’m looking to collaborate on AI<br>🌱 I’m currently learning Swift<br>💬 Ask me about JavaScript , React , API , Oracle DB<br>  <br><br>Contact me here ayushjoshi947@gmail.com<br>
 
 
 ## 🌐 Socials:
